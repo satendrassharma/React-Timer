@@ -70,7 +70,7 @@ class App extends Component {
         style={{
           textAlign: "center",
           backgroundColor: "black",
-          height: "100vh",
+
           padding: 5
         }}
       >
