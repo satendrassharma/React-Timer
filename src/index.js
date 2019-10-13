@@ -70,8 +70,8 @@ class App extends Component {
         style={{
           textAlign: "center",
           backgroundColor: "black",
-
-          padding: 5
+          minHeight:'100vh',
+          padding: '5px'
         }}
       >
         <div style={{ color: "white", fontSize: 50, margin: 10 }}>
